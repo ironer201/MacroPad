@@ -11,18 +11,18 @@ This project was developed for **Microprocessor, Microcontroller and Embedded Sy
 
 # 📸 Features
 
-✅ 4 Programmable Macro Buttons
-✅ GUI Configurator using Python Tkinter
-✅ Custom Key Combination Support
-✅ Open Software & Folders
-✅ EEPROM Storage
-✅ Serial Communication with Arduino
-✅ Heartbeat Detection between Python ↔ Arduino
-✅ Standalone Arduino Operation
-✅ Media Control Keys
-✅ Copy/Paste Shortcuts
-✅ Custom Hotkeys
-✅ Auto Configuration Save
+- ✅ 4 Programmable Macro Buttons
+- ✅ GUI Configurator using Python Tkinter
+- ✅ Custom Key Combination Support
+- ✅ Open Software & Folders
+- ✅ EEPROM Storage
+- ✅ Serial Communication with Arduino
+- ✅ Heartbeat Detection between Python ↔ Arduino
+- ✅ Standalone Arduino Operation
+- ✅ Media Control Keys
+- ✅ Copy/Paste Shortcuts
+- ✅ Custom Hotkeys
+- ✅ Auto Configuration Save
 
 ---
 
